@@ -1,0 +1,15 @@
+.btn-operator, #btnEqual {
+  background-color: rgb(255, 129, 39);
+}
+.col {
+  border-radius: 12px;
+  margin: 8px;
+}
+.col:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+.display {
+  height: 190px;
+  border-bottom: 1px solid rgb(30, 30, 30);
+}
